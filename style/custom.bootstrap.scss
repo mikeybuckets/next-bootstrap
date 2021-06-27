@@ -1,0 +1,16 @@
+$theme-colors: (
+    'primary': #e28215,
+    'secondary': #83b8f3,
+    'tertiary': #1575e2,
+    'headings': #2b363f,
+    'body': #5b6b79,
+    'inputBorderNormal': #c3ced6,
+    'inputBorderFocus': #90a3b0,
+    'darkBG': #2b363f,
+    'lightBG': #eef0f3,
+    'input-bg': #fff,
+    'input-bg-disabled': #fff,
+);
+
+@import '~bootstrap/scss/bootstrap.scss';
+
